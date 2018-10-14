@@ -1,10 +1,10 @@
 ## 			廖育承的個人履歷
 
-<img src="/Users/ramonliao/Documents/GitHub/ramonliao_profile/selfie.JPG" width="400">
+<img src="https://github.com/RamonLiao/ramonliao_profile/blob/master/selfie.JPGG" width="400">
 
 
 
-###基本資料
+### 基本資料
 
 ```
 
