@@ -1,68 +1,65 @@
 ## 			廖育承的個人履歷
 
-<img src="https://github.com/RamonLiao/profile/blob/master/selfie.JPG" width="800">
+<img src="/Users/ramonliao/Documents/GitHub/ramonliao_profile/selfie.JPG" width="400">
 
-You can use the [editor on GitHub](https://github.com/RamonLiao/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###基本資料
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+性別：男
 
-### Jekyll Themes
+居住地：新北市
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RamonLiao/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+生日：1993-10-28
 
-### Support or Contact
+電話：0921249855
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+連絡信箱：ramonliao.yc@gmail.com
 
-
-
-### 20181014 Learning Markdown
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-[1]: http://google.com/        "Google搜尋"
-[2]: http://search.yahoo.com/  "Yahoo 搜尋"
-[3]: http://search.msn.com/    "MSN 搜尋"
-
-```js
-$scope.cookieGet = function(key){
-  $scope.cookieResult = $cookieStore.get(key);
-  console.log ($scope.cookieResult);
-}
 ```
 
-```ruby
-def index
-puts "hello world"
-end
-```
 
-```csharp
-private void index(){
-    MessageBox.Show("hello world");
-}
-```
+
+### 工作經歷
+
+TGI FRIDAYS星期五餐廳 外場服務生 (2016/03 - 2017/11
+
+> 善於觀察人、團隊溝通與合作，面對各式問題能迅速反應及解決。有調酒經驗。
+
+
+
+### 教育背景
+
+##### 國立中興大學
+
+> 學士,  主修,  土木工程學系
+>
+> > 2012/09 - 2017/06
+>
+> 學士,  副修,  電機工程學系
+>
+> > 2015/09 - 2017/06
+
+
+
+###語言能力
+
+* 英文
+
+  > IELTS 檢定 6.5 級分
+
+* 西文
+
+  > SFLPT 檢定達 A2 等級
+
+
+
+### 個人網站
+
+* [LinkedIn](www.linkedin.com/in/ramonliao)
+* [GitHub](https://github.com/RamonLiao)
+
+* [Facebook](https://www.facebook.com/)
+
