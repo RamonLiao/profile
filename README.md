@@ -93,6 +93,3 @@ TGI FRIDAYS 星期五餐廳 ,  外場服務生
 * [LinkedIn](www.linkedin.com/in/ramonliao)
 * [GitHub](https://github.com/RamonLiao)
 * [Facebook](https://www.facebook.com/yc52811)
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_TW" data-type="horizontal" data-theme="dark" data-vanity="ramonliao"><a class="LI-simple-link" href='https://tw.linkedin.com/in/ramonliao?trk=profile-badge'>廖育承</a></div>
