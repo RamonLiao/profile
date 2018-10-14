@@ -45,3 +45,22 @@ I get 10 times more traffic from [Google][1] than from
   [1]: http://google.com/        "Google搜尋"
   [2]: http://search.yahoo.com/  "Yahoo 搜尋"
   [3]: http://search.msn.com/    "MSN 搜尋"
+
+```js
+$scope.cookieGet = function(key){
+  $scope.cookieResult = $cookieStore.get(key);
+  console.log ($scope.cookieResult);
+}
+```
+
+```ruby
+def index
+puts "hello world"
+end
+```
+
+```csharp
+private void index(){
+    MessageBox.Show("hello world");
+}
+```
