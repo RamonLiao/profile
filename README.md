@@ -60,6 +60,5 @@ TGI FRIDAYS星期五餐廳 外場服務生 (2016/03 - 2017/11
 
 * [LinkedIn](www.linkedin.com/in/ramonliao)
 * [GitHub](https://github.com/RamonLiao)
-
 * [Facebook](https://www.facebook.com/)
 
