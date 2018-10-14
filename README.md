@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 			廖育承的個人履歷
+
+<img src="/Users/ramonliao/Documents/GitHub/profile/selfie.JPG" width="800">
 
 You can use the [editor on GitHub](https://github.com/RamonLiao/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -42,9 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].
 
-  [1]: http://google.com/        "Google搜尋"
-  [2]: http://search.yahoo.com/  "Yahoo 搜尋"
-  [3]: http://search.msn.com/    "MSN 搜尋"
+[1]: http://google.com/        "Google搜尋"
+[2]: http://search.yahoo.com/  "Yahoo 搜尋"
+[3]: http://search.msn.com/    "MSN 搜尋"
 
 ```js
 $scope.cookieGet = function(key){
