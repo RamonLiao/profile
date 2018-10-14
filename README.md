@@ -1,6 +1,6 @@
 ## 			廖育承的個人履歷
 
-<img src="/Users/ramonliao/Documents/GitHub/profile/selfie.JPG" width="800">
+<img src="https://github.com/RamonLiao/profile/blob/master/selfie.JPG" width="800">
 
 You can use the [editor on GitHub](https://github.com/RamonLiao/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
