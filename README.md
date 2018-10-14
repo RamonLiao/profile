@@ -1,6 +1,6 @@
 # 			個人簡歷
 
-<img src="/Users/ramonliao/Documents/GitHub/ramonliao_profile/selfie.JPG" height="400px">
+<img src="selfie.JPG" height="400px">
 
 
 
