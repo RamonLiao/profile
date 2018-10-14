@@ -1,6 +1,6 @@
 ## 			廖育承的個人履歷
 
-<img src="/Users/ramonliao/Documents/GitHub/ramonliao_profile/selfie.JPG" height="400px">
+<img src="https://github.com/RamonLiao/ramonliao_profile/blob/master/selfie.JPG" height="400px">
 
 
 
