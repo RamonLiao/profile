@@ -1,12 +1,14 @@
-# 			廖育承的個人履歷
+# 			個人簡歷
 
-<img src="https://github.com/RamonLiao/ramonliao_profile/blob/master/selfie.JPG" height="400px">
+<img src="/Users/ramonliao/Documents/GitHub/ramonliao_profile/selfie.JPG" height="400px">
 
 
 
-## 基本資料
+##基本資料
 
 ```
+
+姓名：廖育承
 
 性別：男
 
