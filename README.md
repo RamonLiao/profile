@@ -1,6 +1,6 @@
 # 			個人簡歷
 
-<img src="selfie.JPG">
+<img src="selfie.JPG" height="400">
 
 
 
